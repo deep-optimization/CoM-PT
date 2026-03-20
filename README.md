@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models</h1>
-  <p>Jiawei Fan, Shigeng Wang, Chao Li, Xiaolong Liu, Anbang Yao</p>
+  <p>Jiawei Fan, Shigeng Wang, Chao Li, Xiaolong Liu, and Anbang Yao</p>
 
   [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue.svg)](#) 
   [![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b.svg)](#)

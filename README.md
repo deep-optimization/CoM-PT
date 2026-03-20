@@ -1,0 +1,2 @@
+# CoM-PT
+The official project website of "Chain-of-Models Pre-Training: Rethinking Training Acceleration of Vision Foundation Models" (accepted to CVPR 2026)

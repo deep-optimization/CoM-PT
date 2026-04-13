@@ -1,4 +1,0 @@
-2025-01-06,14:44:57 | INFO | Added key: store_based_barrier_key:1 to store for rank: 0
-2025-01-06,14:44:58 | INFO | Rank 0: Completed store-based barrier for key:store_based_barrier_key:1 with 8 nodes.
-2025-01-06,14:44:58 | INFO | Running in distributed mode with multiple processes. Device: cuda:0.Process (global: 0, local 0), total 8.
-2025-01-06,14:44:58 | INFO | Loaded ViT-B-32 model config.

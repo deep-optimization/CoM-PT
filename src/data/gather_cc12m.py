@@ -8,7 +8,6 @@ from PIL import Image
 import pickle
 import sys
 
-proxies = {'http': 'http://child-prc.intel.com:913/', 'https': 'http://child-prc.intel.com:913/', 'ftp': 'http://child-prc.intel.com:913/'}
 
 def grab(line):
     """

@@ -77,13 +77,13 @@ bash training_script/cc3m_vit/com-pt/com_vit-s_to_vit-b.sh
 
 | Network | Method | Train Script | Google Drive |
 | :--- | :---: | :---: | :--- |
-| ViT-T/16 | Baseline | `sh` | [baseline_vit-t_e128.pth](https://drive.google.com/file/d/1ixJ0ZZj0-uOKuSWG-zPDAMXNz7wGxHGD/view?usp=drive_link) |
-| ViT-S/16 | Baseline | `sh` | [baseline_vit-s_e128](https://drive.google.com/file/d/1YU0aPimvQYdSB-DGbGeAQ1viS2fW1jSh/view?usp=drive_link) |
-| ViT-S/16 | CoM-PT | `sh` | [com_vit-s_e24.pth](https://drive.google.com/file/d/1BFbSwDg6vrjTDe1zgseCwjH6_2P2CHwt/view?usp=drive_link) |
-| ViT-B/16 | Baseline | `sh` | [baseline_vit-b_e128.pth](https://drive.google.com/file/d/1_6uwor8ESmUgLwqrKKdUIp3VqL-qCa20/view?usp=drive_link) |
-| ViT-B/16 | CoM-PT | `sh` | [com_vit-b_e18.pth](https://drive.google.com/file/d/1-NiUZ2-OWE4wCEVHHCiaXLqWmnloao-8/view?usp=drive_link) |
-| ViT-L/16 | Baseline | `sh` | [baseline_vit-l_e128.pth](https://drive.google.com/file/d/1ixJ0ZZj0-uOKuSWG-zPDAMXNz7wGxHGD/view?usp=drive_link) |
-| ViT-L/16 | CoM-PT | `sh` | [com_vit-l_e15.pth](https://drive.google.com/file/d/1it2LvYm98z03k46mj5pKWePE34UgrZLx/view?usp=drive_link) |
+| ViT-T/16 | Baseline | [`sh`](https://github.com/deep-optimization/CoM-PT/blob/main/training_script/cc3m_vit/baseline/baseline_vit-t.sh) | [baseline_vit-t_e128.pth](https://drive.google.com/file/d/1ixJ0ZZj0-uOKuSWG-zPDAMXNz7wGxHGD/view?usp=drive_link) |
+| ViT-S/16 | Baseline | [`sh`](https://github.com/deep-optimization/CoM-PT/blob/main/training_script/cc3m_vit/baseline/baseline_vit-s.sh) | [baseline_vit-s_e128](https://drive.google.com/file/d/1YU0aPimvQYdSB-DGbGeAQ1viS2fW1jSh/view?usp=drive_link) |
+| ViT-S/16 | CoM-PT | [`sh`](https://github.com/deep-optimization/CoM-PT/blob/main/training_script/cc3m_vit/com-pt/com_vit-t_to_vit-s.sh) | [com_vit-s_e24.pth](https://drive.google.com/file/d/1BFbSwDg6vrjTDe1zgseCwjH6_2P2CHwt/view?usp=drive_link) |
+| ViT-B/16 | Baseline | [`sh`](https://github.com/deep-optimization/CoM-PT/blob/main/training_script/cc3m_vit/baseline/baseline_vit-b.sh) | [baseline_vit-b_e128.pth](https://drive.google.com/file/d/1_6uwor8ESmUgLwqrKKdUIp3VqL-qCa20/view?usp=drive_link) |
+| ViT-B/16 | CoM-PT | [`sh`](https://github.com/deep-optimization/CoM-PT/blob/main/training_script/cc3m_vit/com-pt/com_vit-s_to_vit-b.sh) | [com_vit-b_e18.pth](https://drive.google.com/file/d/1-NiUZ2-OWE4wCEVHHCiaXLqWmnloao-8/view?usp=drive_link) |
+| ViT-L/16 | Baseline | [`sh`](https://github.com/deep-optimization/CoM-PT/blob/main/training_script/cc3m_vit/baseline/baseline_vit-l.sh) | [baseline_vit-l_e128.pth](https://drive.google.com/file/d/1ixJ0ZZj0-uOKuSWG-zPDAMXNz7wGxHGD/view?usp=drive_link) |
+| ViT-L/16 | CoM-PT | [`sh`](https://github.com/deep-optimization/CoM-PT/blob/main/training_script/cc3m_vit/com-pt/com_vit-b_to_vit-l.sh) | [com_vit-l_e15.pth](https://drive.google.com/file/d/1it2LvYm98z03k46mj5pKWePE34UgrZLx/view?usp=drive_link) |
 
 > *More model families are currently being prepared for release.*
 
@@ -109,4 +109,3 @@ If you find our paper and repository helpful, please consider citing our work:
   year={2026}
 }
 ```
-

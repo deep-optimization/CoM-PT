@@ -3,7 +3,7 @@
   <p>Jiawei Fan, Shigeng Wang, Chao Li, Xiaolong Liu, and Anbang Yao</p>
 
   [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue.svg)](#) 
-  [![arXiv](https://img.shields.io/badge/arXiv-2604.12391-b31b1b.svg)](#)
+  [![arXiv](https://img.shields.io/badge/arXiv-2604.12391-b31b1b.svg)](https://arxiv.org/pdf/2604.12391)
 </div>
 
 ---

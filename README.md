@@ -95,7 +95,7 @@ Evaluation on the ImageNet-1K dataset can be performed directly by adding an `--
 
 ## 🙏 Acknowledgement
 
-Our codebase is built upon [open_clip](https://github.com/mlfoundations/open_clip) and [clip-kd](#). We sincerely thank the authors for releasing their amazing code.
+Our codebase is built upon [open_clip](https://github.com/mlfoundations/open_clip) and [clip-kd](https://github.com/winycg/CLIP-KD). We sincerely thank the authors for releasing their amazing code.
 
 ## 📝 Citation
 
